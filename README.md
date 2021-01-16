@@ -1,6 +1,6 @@
 # React Starter App
 
-This is a simple React Starter app to skip all the initial boring stuff and get you started with your projects asap.
+This is a simple React Starter App to skip all the initial boring stuff and get you started with your projects asap.
 
 To get started, run the following - 
 
