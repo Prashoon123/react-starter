@@ -4,9 +4,9 @@ This is a simple React Redux Starter app to skip all the initial boring stuff an
 
 To get started, run the following - 
 
-```sh
+```
 git clone https://github.com/Prashoon123/react-starter.git
-npm install(if using yarn then delete the `package-lock.json` file and then run `yarn`)
+npm install(if using yarn then delete the package-lock.json file and then run yarn)
 npm start
 ```
 
